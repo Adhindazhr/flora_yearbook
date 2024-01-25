@@ -7,7 +7,7 @@
   <script src="https://kit.fontawesome.com/7a0f5de731.js" crossorigin="anonymous"></script>
   @vite(['resources/css/app.css', 'resources/js/app.js'])
   <style>
-  .vl {
+  .vl {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     .
     border-left: 6px solid rgb(254, 254, 254);
     height: 85px;
   }
@@ -35,9 +35,9 @@
       <li><a><i class="fa-solid fa-house"></i>Dashboard</a></li>
       <li><a><i class="fa-regular fa-comment-dots"></i>Sambutan</a></li>
       <li><a><i class="fa-regular fa-user"></i>Profil Guru</a></li>
-      <li><a>Ekstrakulikuler</a></li>
-      <li><a>Kelas</a></li>
-      <li><a>Angkatan</a></li>
+      <li><a><i class="fa-solid fa-basketball"></i>Ekstrakulikuler</a></li>
+      <li><a><i class="fa-solid fa-chalkboard-user"></i>Kelas</a></li>
+      <li><a><i class="fa-solid fa-paperclip"></i>Angkatan</a></li>
       </div>
     </ul>
   </div>
